@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am <strong> Murphy Otse </strong>
+I am **Murphy Otse**
 <hr>
 
-<!--
-**KvngMurphy/KvngMurphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**KvngMurphy/KvngMurphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
