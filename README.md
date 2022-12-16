@@ -17,8 +17,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=KvngMurphy&show_icons=true&theme=nord" width="423"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KvngMurphy&theme=nord&layout=compact" width="353">
 
 
-  <a href="https://stackoverflow.com/users/16576847/dhanteyud" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157509241-24a91e0a-37ac-46d2-adb6-8f7cc67e6299.png" height="50" /></a><a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157510215-442ee47d-b5f0-4178-9784-7301e5c42df4.png" height="50" /></a><a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157510282-7265cb61-35b6-4cd0-a18a-034218b85dd8.png" height="50" /></a><a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157510388-880bd3d4-4cc5-4ef5-a1bc-adf7dc878e3f.png" height="50" /></a><a href="https://codepen.io/Clinton_Otse" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157511464-5c238237-5d0a-4716-9540-dba6285598bf.png" height="50" /></a><a href="https://www.codewars.com/users/DhanteyUD" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157512436-e3645ec4-ca59-494b-99aa-98d417a129b0.svg" height="40" /></a>
-
 <a href="#" target="blank"><img src="https://user-images.githubusercontent.com/85023604/157433094-eb0799cc-41dd-4cfe-bb9a-49335956e5c7.gif" height="300" /></a><a href="#" target="blank"><img src="https://user-images.githubusercontent.com/85023604/157438650-91c731f4-68c0-4338-a8f7-4854562d77a9.JPEG" height="300" /></a>
 
   
