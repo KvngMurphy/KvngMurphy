@@ -9,8 +9,6 @@
 </div>
 
 <div align="center">
-
-<a href="#" target="blank"><img src="https://user-images.githubusercontent.com/85023604/157433094-eb0799cc-41dd-4cfe-bb9a-49335956e5c7.gif" height="300" /></a>
   <img src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13" height="250" >   
 <img src="https://komarev.com/ghpvc/?username=kvngMurphy&label=Profile%20views&color=0e75b6&style=flat" alt="kvngMurphy" />
   
@@ -33,9 +31,5 @@
 <img width="40" height="40"  src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/atom.png">
 <img alt="notepadplusplus" height="40" width="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/notepadplusplus.png" />
 <img alt="github" height="40" width="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png"
-     
-     
-<p align="left">
-  <a href="https://www.linkedin.com/in/valentine-75701622b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentine fernandes" height="30" width="40" /></a>
-  
+
   
