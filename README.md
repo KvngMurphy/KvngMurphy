@@ -39,3 +39,6 @@
      <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/valentine-75701622b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentine fernandes" height="30" width="40" /></a>
+  
+  <img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=valentinefernandes&label=Profile%20views&color=0e75b6&style=flat" alt="valentinefernandes" /> </p>
