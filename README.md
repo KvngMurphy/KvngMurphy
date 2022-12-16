@@ -12,7 +12,7 @@
 
 
 ---
-  ##GitHub Stats
+## GitHub Stats
   
 <img src="https://github-readme-stats.vercel.app/api?username=KvngMurphy&show_icons=true&theme=nord" width="423"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KvngMurphy&theme=nord&layout=compact" width="353">
 
