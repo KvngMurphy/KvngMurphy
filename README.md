@@ -8,8 +8,8 @@
 </div>
 <hr>
 
-I am a passionate `software engineer`, a freelance `product designer` and a `blockchain enthusiast`. My passion for software lies in brainstorming ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
- Technology enthusiast with love for building projects
+`Technology enthusiast` with love for buildinge `projects` 
+   
 
 <div align="center">
   <img src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13" height="250" ></div>
