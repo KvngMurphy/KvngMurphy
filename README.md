@@ -11,7 +11,7 @@
    
 
 <div align="center">
-`Technology enthusiast` with love for buildinge `projects` 
+`Technology enthusiast` with love for buildinge `projects` ></div>
 
    <div align="center">
   <img src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13" height="250" ></div>
