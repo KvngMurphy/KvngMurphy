@@ -1,4 +1,4 @@
-## Ahoj!, I'm KvngMurphy 👋
+## Hello!, I'm KvngMurphy 👋
 
 **Software Engineer | DeFi Builder**
 
